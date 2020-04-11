@@ -13,6 +13,7 @@
 
  #about{
    text-align: center;
+   font-size: 1.5rem;
  }
  
 
@@ -6073,7 +6074,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: rgb(86, 146, 146) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9957,7 +9958,7 @@ h3 {
   }
 }
 .page-section {
-  padding: 6rem 0;
+  padding: 3rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
